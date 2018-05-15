@@ -1,0 +1,111 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m2560def.inc</FILE>
+  <FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\Macros.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\Debug\Comp2121_Project.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Comp2121_Project.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Comp2121_Project.map</FILE>
+  <FILE>Comp2121_Project.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SecondCounter><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>14</LINE></SecondCounter>
+  <TempCounter><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>16</LINE></TempCounter>
+  <SecondCounter_2><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>18</LINE></SecondCounter_2>
+  <TempCounter_2><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>20</LINE></TempCounter_2>
+  <Item1Count><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>22</LINE></Item1Count>
+  <Item2Count><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>24</LINE></Item2Count>
+  <Item3Count><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>26</LINE></Item3Count>
+  <Item4Count><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>28</LINE></Item4Count>
+  <Item5Count><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>30</LINE></Item5Count>
+  <Item6Count><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>32</LINE></Item6Count>
+  <Item7Count><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>34</LINE></Item7Count>
+  <Item8Count><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>36</LINE></Item8Count>
+  <Item9Count><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>38</LINE></Item9Count>
+  <Item1Price><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>40</LINE></Item1Price>
+  <Item2Price><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>42</LINE></Item2Price>
+  <Item3Price><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>44</LINE></Item3Price>
+  <Item4Price><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>46</LINE></Item4Price>
+  <Item5Price><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>48</LINE></Item5Price>
+  <Item6Price><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>50</LINE></Item6Price>
+  <Item7Price><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>52</LINE></Item7Price>
+  <Item8Price><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>54</LINE></Item8Price>
+  <Item9Price><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>56</LINE></Item9Price>
+  <SelectedItemNum><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>58</LINE></SelectedItemNum>
+  <PotFlag_Right><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>60</LINE></PotFlag_Right>
+  <PotFlag_Left><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>62</LINE></PotFlag_Left>
+  <CoinsRemaining><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>64</LINE></CoinsRemaining>
+  <RESET><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>250</LINE></RESET>
+  <Timer2OVF><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>169</LINE></Timer2OVF>
+  <Timer0OVF><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>209</LINE></Timer0OVF>
+  <POT_HANDLER><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>98</LINE></POT_HANDLER>
+  <CompareMaxClockWise><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>107</LINE></CompareMaxClockWise>
+  <MaxClockWise><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>123</LINE></MaxClockWise>
+  <CompareMaxAntiClockWise><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>115</LINE></CompareMaxAntiClockWise>
+  <MaxAntiClockWise><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>128</LINE></MaxAntiClockWise>
+  <POT_HANDLE_FINAL><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>161</LINE></POT_HANDLE_FINAL>
+  <HalfTurn><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>138</LINE></HalfTurn>
+  <MaxAntiClockWise_Cont><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>133</LINE></MaxAntiClockWise_Cont>
+  <Coin_Inserted><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>144</LINE></Coin_Inserted>
+  <Coin_Inserted_Cont><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>151</LINE></Coin_Inserted_Cont>
+  <Coins_Remaining><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>158</LINE></Coins_Remaining>
+  <lcd_data><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>498</LINE></lcd_data>
+  <lcd_wait><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>509</LINE></lcd_wait>
+  <lcd_command><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>489</LINE></lcd_command>
+  <NotSecond_2><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>195</LINE></NotSecond_2>
+  <EndIF_2><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>200</LINE></EndIF_2>
+  <IsSecond><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>225</LINE></IsSecond>
+  <NotSecond><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>237</LINE></NotSecond>
+  <EndIF><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>242</LINE></EndIF>
+  <sleep_5ms><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>590</LINE></sleep_5ms>
+  <sleep_1ms><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>578</LINE></sleep_1ms>
+  <main><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>299</LINE></main>
+  <main2><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>304</LINE></main2>
+  <polling><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>341</LINE></polling>
+  <main3><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>308</LINE></main3>
+  <main4><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>312</LINE></main4>
+  <coin_selection><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>328</LINE></coin_selection>
+  <main5><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>316</LINE></main5>
+  <empty_screen><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>334</LINE></empty_screen>
+  <main6><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>320</LINE></main6>
+  <delivery_screen><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>322</LINE></delivery_screen>
+  <sleep_25ms><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>598</LINE></sleep_25ms>
+  <colloop><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>345</LINE></colloop>
+  <delay><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>351</LINE></delay>
+  <nextcol><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>375</LINE></nextcol>
+  <rowloop><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>365</LINE></rowloop>
+  <convert><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>380</LINE></convert>
+  <convert2><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>386</LINE></convert2>
+  <letters><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>412</LINE></letters>
+  <convert3><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>391</LINE></convert3>
+  <symbols><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>418</LINE></symbols>
+  <select_interrupt><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>405</LINE></select_interrupt>
+  <convert_end><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>436</LINE></convert_end>
+  <star><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>425</LINE></star>
+  <zero><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>429</LINE></zero>
+  <perform_selection><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>441</LINE></perform_selection>
+  <selection_loop><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>450</LINE></selection_loop>
+  <selection><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>457</LINE></selection>
+  <empty_selection><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>464</LINE></empty_selection>
+  <halt><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>474</LINE></halt>
+  <lcd_wait_loop><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>515</LINE></lcd_wait_loop>
+  <delivery_motor><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>529</LINE></delivery_motor>
+  <duller><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>553</LINE></duller>
+  <brighter><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>563</LINE></brighter>
+  <delayloop_1ms><FILE>C:\Users\Vince.DESKTOP-L0J40OU\Documents\Atmel Studio\7.0\Comp2121_Project\Comp2121_Project\main.asm</FILE><LINE>583</LINE></delayloop_1ms>
+ </LABELS>
+</ASSEMBLER_INFO>
